@@ -1,4 +1,6 @@
 # CandK-Used-Car
 '''
-This is a project that specializes in comparing used car prices in one very same model but between two different regions (China & Korea). It totally consists of 3 parts i.e. crawling, data cleaning, and data mining. After calculating the regression models for both countries in one very similar trim, it concluded that the null hypothesis cannot be rejected, implying Chinese used car price has an insignificant difference from Korean car price in terms of one similar trim in the same model.
+168_Used_Car.py is the code for chinese used car data crawling simply using html parsing, and K_Ajex.py is the code for korean used car data crawling using Ajex.
+DM_Test.pyq, on the other hand, is the data mining file including data cleaning, subsetting, KNN, CV, linear regressions, etc. 
+Mnay thanks to my friend Yuzhang Liu, who gives a lot generous help for creating these files.
 '''
